@@ -36,7 +36,7 @@ The data set contains socio-demographic and firmographic features about 2.240 cu
 # Outliers for feature Income
 The boxplot shows there are some outliers for the feature Income
 
-
+![income_before_treat_outliers](https://user-images.githubusercontent.com/52208793/96518357-1d60f600-1241-11eb-8253-1c904f273849.jpg)
 
 Treatment outliers:
 1) Drop Income greater than 666.666
