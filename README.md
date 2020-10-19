@@ -33,7 +33,7 @@ The data set contains socio-demographic and firmographic features about 2.240 cu
 # Treatment Missing Values
 ![treatment_missing_values](https://user-images.githubusercontent.com/52208793/96516509-b0982c80-123d-11eb-94cd-bc8fe47b9c07.jpg)
 
-# Outliers for feature Income
+# Outliers from feature Income
 The boxplot shows there are some outliers for the feature Income
 
 ![income_before_treat_outliers](https://user-images.githubusercontent.com/52208793/96518357-1d60f600-1241-11eb-8253-1c904f273849.jpg)
@@ -51,6 +51,7 @@ After treatment by median you can see a better result.
 ![age_1](https://user-images.githubusercontent.com/52208793/96519578-b0029480-1243-11eb-84d7-c91ba238f7bc.jpg)
 ![age_2](https://user-images.githubusercontent.com/52208793/96519755-14255880-1244-11eb-8df9-49cc67c90ae4.jpg)
 
+# Analysing the feature Dt_Customer and creating a new feature called Member_Months
 
 
 
