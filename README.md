@@ -42,6 +42,9 @@ Treatment outliers:
 1) Drop Income greater than 666.666
 2) Applying interquartile range
 
+![income_before_treat_outliers_acc_1](https://user-images.githubusercontent.com/52208793/96518665-c0197480-1241-11eb-9b1b-8c287d382ab7.jpg)
+
+
 
 
 
