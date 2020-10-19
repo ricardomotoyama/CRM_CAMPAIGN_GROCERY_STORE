@@ -33,7 +33,7 @@ The data set contains socio-demographic and firmographic features about 2.240 cu
 # Treatment Missing Values
 ![treatment_missing_values](https://user-images.githubusercontent.com/52208793/96516509-b0982c80-123d-11eb-94cd-bc8fe47b9c07.jpg)
 
-# Outliers from feature Income
+# Analysing the feature Income
 The boxplot shows there are some outliers for the feature Income
 
 ![income_before_treat_outliers](https://user-images.githubusercontent.com/52208793/96518357-1d60f600-1241-11eb-8253-1c904f273849.jpg)
@@ -47,7 +47,7 @@ Treatment outliers:
 After treatment by median you can see a better result.
 ![income_before_treat_outliers_acc_2](https://user-images.githubusercontent.com/52208793/96518981-5f3e6c00-1242-11eb-8fc2-c02531570933.jpg)
 
-# Outliers from Year Birth and creating a new feature called Age
+# Analysing the feature Year_Birth and creating a new feature called Age
 ![age_1](https://user-images.githubusercontent.com/52208793/96519578-b0029480-1243-11eb-84d7-c91ba238f7bc.jpg)
 ![age_2](https://user-images.githubusercontent.com/52208793/96519755-14255880-1244-11eb-8df9-49cc67c90ae4.jpg)
 
@@ -62,5 +62,14 @@ After treatment by median you can see a better result.
 There aren't any outliers for this feature.
 ![recency_1](https://user-images.githubusercontent.com/52208793/96521101-dd047680-1246-11eb-8700-eb78bdd3e30e.jpg)
 ![recency_2](https://user-images.githubusercontent.com/52208793/96521313-5c924580-1247-11eb-98c3-88dbedb6a6b9.jpg)
+
+# Analysing the feature MntWines
+The boxplot shows there are some outliers for the feature MntWines
+
+![mntwines_1](https://user-images.githubusercontent.com/52208793/96521647-15588480-1248-11eb-9c41-cd8dcc2ad592.jpg)
+![mntwines_2](https://user-images.githubusercontent.com/52208793/96521787-66687880-1248-11eb-8874-20c488a83260.jpg)
+![mntwines_3](https://user-images.githubusercontent.com/52208793/96522088-0de5ab00-1249-11eb-94b9-3a46f319052c.jpg)
+![mntwines_4](https://user-images.githubusercontent.com/52208793/96522150-2bb31000-1249-11eb-8198-a95f50146cbd.jpg)
+
 
 
