@@ -28,6 +28,8 @@ The data set contains socio-demographic and firmographic features about 2.240 cu
 ![drop_features](https://user-images.githubusercontent.com/52208793/96516070-d2dd7a80-123c-11eb-9d5d-74693abeddf1.jpg)
 
 # Looking for missing values
+![missing_values](https://user-images.githubusercontent.com/52208793/96516361-6a42cd80-123d-11eb-9a2b-2ea3397d4c7e.jpg)
+
 
 
 
