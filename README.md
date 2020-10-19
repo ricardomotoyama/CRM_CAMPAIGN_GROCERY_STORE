@@ -56,7 +56,7 @@ After treatment by median you can see a better result.
 ![member_months_2](https://user-images.githubusercontent.com/52208793/96520273-189e4100-1245-11eb-82ae-243a409db171.jpg)
 ![member_months_3](https://user-images.githubusercontent.com/52208793/96520438-7c286e80-1245-11eb-9974-3e29df1066a1.jpg)
 ![member_months_4](https://user-images.githubusercontent.com/52208793/96520657-e4775000-1245-11eb-8fdc-4e4013876dae.jpg)
-
+![member_months_5](https://user-images.githubusercontent.com/52208793/96520839-52237c00-1246-11eb-960a-7e1717e73af3.jpg)
 
 
 
