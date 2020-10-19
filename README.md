@@ -49,6 +49,7 @@ After treatment by median you can see a better result.
 
 # Outliers from Year Birth and creating a new feature called Age
 ![age_1](https://user-images.githubusercontent.com/52208793/96519578-b0029480-1243-11eb-84d7-c91ba238f7bc.jpg)
+![age_2](https://user-images.githubusercontent.com/52208793/96519755-14255880-1244-11eb-8df9-49cc67c90ae4.jpg)
 
 
 
