@@ -61,4 +61,6 @@ After treatment by median you can see a better result.
 # Analysing the feature Recency
 There aren't any outliers for this feature.
 ![recency_1](https://user-images.githubusercontent.com/52208793/96521101-dd047680-1246-11eb-8700-eb78bdd3e30e.jpg)
+![recency_2](https://user-images.githubusercontent.com/52208793/96521313-5c924580-1247-11eb-98c3-88dbedb6a6b9.jpg)
+
 
