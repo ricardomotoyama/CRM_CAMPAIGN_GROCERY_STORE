@@ -48,7 +48,7 @@ After treatment by median you can see a better result.
 ![income_before_treat_outliers_acc_2](https://user-images.githubusercontent.com/52208793/96518981-5f3e6c00-1242-11eb-8fc2-c02531570933.jpg)
 
 # Outliers from Year Birth and creating a new feature called Age
-
+![age_1](https://user-images.githubusercontent.com/52208793/96519578-b0029480-1243-11eb-84d7-c91ba238f7bc.jpg)
 
 
 
