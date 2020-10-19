@@ -33,6 +33,16 @@ The data set contains socio-demographic and firmographic features about 2.240 cu
 # Treatment Missing Values
 ![treatment_missing_values](https://user-images.githubusercontent.com/52208793/96516509-b0982c80-123d-11eb-94cd-bc8fe47b9c07.jpg)
 
+# Outliers for feature Income
+The boxplot shows there are some outliers for the feature Income
+
+
+
+Treatment outliers:
+1) Drop Income greater than 666.666
+2) Applying interquartile range
+
+
 
 
 
