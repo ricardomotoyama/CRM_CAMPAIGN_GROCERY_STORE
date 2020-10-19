@@ -78,6 +78,11 @@ The boxplot shows there are some outliers for the feature MntFruits
 ![mntfruits_2](https://user-images.githubusercontent.com/52208793/96522498-dc211400-1249-11eb-9f66-4dfc0533aeb7.jpg)
 ![mntfruits_3](https://user-images.githubusercontent.com/52208793/96522612-168ab100-124a-11eb-9115-90c6a651f877.jpg)
 
+Applying interquartile range
+
+![mntfruits_4](https://user-images.githubusercontent.com/52208793/96522843-b2b4b800-124a-11eb-9c0b-ce14bd66c6c9.jpg)
+![mntfruits_5](https://user-images.githubusercontent.com/52208793/96523052-21921100-124b-11eb-8efe-0a492f60f951.jpg)
+![mntfruits_6](https://user-images.githubusercontent.com/52208793/96523122-4ab2a180-124b-11eb-88da-ab8c312532ad.jpg)
 
 
 
