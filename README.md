@@ -52,6 +52,7 @@ After treatment by median you can see a better result.
 ![age_2](https://user-images.githubusercontent.com/52208793/96519755-14255880-1244-11eb-8df9-49cc67c90ae4.jpg)
 
 # Analysing the feature Dt_Customer and creating a new feature called Member_Months
+![member_months_1](https://user-images.githubusercontent.com/52208793/96520113-bcd3b800-1244-11eb-8401-9c22320fed41.jpg)
 
 
 
