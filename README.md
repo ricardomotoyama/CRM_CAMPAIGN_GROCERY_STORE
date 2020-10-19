@@ -53,7 +53,7 @@ After treatment by median you can see a better result.
 
 # Analysing the feature Dt_Customer and creating a new feature called Member_Months
 ![member_months_1](https://user-images.githubusercontent.com/52208793/96520113-bcd3b800-1244-11eb-8401-9c22320fed41.jpg)
-
+![member_months_2](https://user-images.githubusercontent.com/52208793/96520273-189e4100-1245-11eb-82ae-243a409db171.jpg)
 
 
 
