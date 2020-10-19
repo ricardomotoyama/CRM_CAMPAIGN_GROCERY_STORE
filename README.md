@@ -1,4 +1,4 @@
-# CRM_CAMPAIGN_GROCERY_STORE
+# CRM CAMPAIGN GROCERY STORE
 Predicting the customers will accept a campaign.
 
 ### The Company
@@ -15,3 +15,10 @@ The data set contains socio-demographic and firmographic features about 2.240 cu
 
 
 ![metadados](https://user-images.githubusercontent.com/52208793/96514789-8e50df80-123a-11eb-8579-67b48752120d.jpg)
+
+
+
+# Libraries
+
+
+
