@@ -58,5 +58,7 @@ After treatment by median you can see a better result.
 ![member_months_4](https://user-images.githubusercontent.com/52208793/96520657-e4775000-1245-11eb-8fdc-4e4013876dae.jpg)
 ![member_months_5](https://user-images.githubusercontent.com/52208793/96520839-52237c00-1246-11eb-960a-7e1717e73af3.jpg)
 
-
+# Analysing the feature Recency
+There aren't any outliers for this feature.
+![recency_1](https://user-images.githubusercontent.com/52208793/96521101-dd047680-1246-11eb-8700-eb78bdd3e30e.jpg)
 
