@@ -24,5 +24,10 @@ The data set contains socio-demographic and firmographic features about 2.240 cu
 # Import dataset
 ![import_dataset](https://user-images.githubusercontent.com/52208793/96515800-53e84200-123c-11eb-9d1d-6905c4753bb1.jpg)
 
+# Dropping Features
+![drop_features](https://user-images.githubusercontent.com/52208793/96516070-d2dd7a80-123c-11eb-9d5d-74693abeddf1.jpg)
+
+
+
 
 
