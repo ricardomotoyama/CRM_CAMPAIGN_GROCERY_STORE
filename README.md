@@ -14,3 +14,4 @@ The objective of the team is to build a predictive model that will produce the h
 The data set contains socio-demographic and firmographic features about 2.240 customers who were contacted. Additionally, it contains a flag for those customers who responded the campaign, by buying the product.
 
 
+![metadados](https://user-images.githubusercontent.com/52208793/96514789-8e50df80-123a-11eb-8579-67b48752120d.jpg)
