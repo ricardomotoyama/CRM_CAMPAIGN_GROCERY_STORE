@@ -71,5 +71,14 @@ The boxplot shows there are some outliers for the feature MntWines
 ![mntwines_3](https://user-images.githubusercontent.com/52208793/96522088-0de5ab00-1249-11eb-94b9-3a46f319052c.jpg)
 ![mntwines_4](https://user-images.githubusercontent.com/52208793/96522150-2bb31000-1249-11eb-8198-a95f50146cbd.jpg)
 
+# Analysing the feature MntFruits
+The boxplot shows there are some outliers for the feature MntFruits
+
+![mntfruits_1](https://user-images.githubusercontent.com/52208793/96522368-a1b77700-1249-11eb-8a63-4c85146f2de4.jpg)
+![mntfruits_2](https://user-images.githubusercontent.com/52208793/96522498-dc211400-1249-11eb-9f66-4dfc0533aeb7.jpg)
+![mntfruits_3](https://user-images.githubusercontent.com/52208793/96522612-168ab100-124a-11eb-9115-90c6a651f877.jpg)
+
+
+
 
 
