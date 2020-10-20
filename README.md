@@ -182,4 +182,11 @@ Applying interquartile range
 Median of Visits on Web Site last month by customers accepted the 6th campaign and Median of Visits on Web Site last month by customers didn't accept are the same.
 Standard deviation of Visits on Web Site last month by customers accepted the 6th campaign is bigger than Standard deviation of Purchases made directly on stores by customers didn't accept it.
 
+# Analyzing Education and Marital_Status
+
+![education_and_marital_status_1](https://user-images.githubusercontent.com/52208793/96528961-52c60d80-125a-11eb-85d2-34f9a412c501.jpg)
+![education_and_marital_status_2](https://user-images.githubusercontent.com/52208793/96529051-81dc7f00-125a-11eb-9911-7f80bb70ab0e.jpg)
+![education_and_marital_status_3](https://user-images.githubusercontent.com/52208793/96529120-b2bcb400-125a-11eb-8ea0-91c65cecb8d8.jpg)
+![education_and_marital_status_4](https://user-images.githubusercontent.com/52208793/96529184-e0096200-125a-11eb-839e-b3ec737cbd61.jpg)
+![education_and_marital_status_5](https://user-images.githubusercontent.com/52208793/96529242-05966b80-125b-11eb-8c8f-e2ed474356b4.jpg)
 
