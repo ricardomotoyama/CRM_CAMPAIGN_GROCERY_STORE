@@ -115,4 +115,6 @@ The boxplot shows there are some outliers for the feature MntSweetProducts
 
 Applying interquartile range
 ![MntSweetProducts_3](https://user-images.githubusercontent.com/52208793/96524707-6750d880-124f-11eb-8de4-8bf09020acde.jpg)
-![MntFishProducts_4](https://user-images.githubusercontent.com/52208793/96524816-a97a1a00-124f-11eb-9251-930b295dc54e.jpg)
+![MntSweetProducts_4](https://user-images.githubusercontent.com/52208793/96525685-04147580-1252-11eb-8c6f-efa142450b53.jpg)
+
+
