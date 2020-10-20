@@ -93,7 +93,7 @@ The boxplot shows there are some outliers for the feature MntFruits
 ![MntMeatProducts_4](https://user-images.githubusercontent.com/52208793/96523677-b2b5b780-124c-11eb-85c8-085bb1db1933.jpg)
 
 # Analysing the feature MntFishProducts
-The boxplot shows there are some outliers for the feature MntFruits
+The boxplot shows there are some outliers for the feature MntFishProducts
 
 ![MntFishProducts_1](https://user-images.githubusercontent.com/52208793/96523834-12ac5e00-124d-11eb-9247-1318e4ad72b6.jpg)
 ![MntFishProducts_2](https://user-images.githubusercontent.com/52208793/96523939-5f903480-124d-11eb-88a1-45f74ed704ff.jpg)
@@ -104,9 +104,15 @@ Applying interquartile range
 ![MntFishProducts_4](https://user-images.githubusercontent.com/52208793/96524290-3623d880-124e-11eb-8122-aa3d1e80c62b.jpg)
 
 Median of Amount spent on Fish Products by customers accepted the 6th campaign is bigger than Median of Amount spent on Fish Products by customers didn't accept it.
-
 Standard deviation of amount spent on Fish Products by customers accepted the 6th campaign is bigger than Standard deviation of amount spent on Fish Products by customers didn't accept it.
-
 Look at skewness. The histogram of amount spent on Fish Products by customers accepted the 6th campaign has positive skew.
 
+# Analysing the feature MntSweetProducts
+The boxplot shows there are some outliers for the feature MntSweetProducts
 
+![MntSweetProducts_1](https://user-images.githubusercontent.com/52208793/96524443-af233000-124e-11eb-8bc9-a5a00cfc7169.jpg)
+![MntSweetProducts_2](https://user-images.githubusercontent.com/52208793/96524539-f27d9e80-124e-11eb-898c-e6747963c1c5.jpg)
+
+Applying interquartile range
+![MntSweetProducts_3](https://user-images.githubusercontent.com/52208793/96524707-6750d880-124f-11eb-8de4-8bf09020acde.jpg)
+![MntFishProducts_4](https://user-images.githubusercontent.com/52208793/96524816-a97a1a00-124f-11eb-9251-930b295dc54e.jpg)
