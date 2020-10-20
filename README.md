@@ -157,4 +157,27 @@ Applying interquartile range
 ![NumCatalogPurchases_3](https://user-images.githubusercontent.com/52208793/96527873-9408ee00-1257-11eb-9e0c-b809f172a503.jpg)
 ![NumCatalogPurchases_4](https://user-images.githubusercontent.com/52208793/96527936-bc90e800-1257-11eb-9c47-c8eabaec5509.jpg)
 
+# Analysing the feature NumStorePurchases
+The boxplot shows there aren't any outliers for the feature NumStorePurchases
+
+![NumStorePurchases_1](https://user-images.githubusercontent.com/52208793/96528068-201b1580-1258-11eb-94b6-49da8013927c.jpg)
+![NumStorePurchases_2](https://user-images.githubusercontent.com/52208793/96528212-78521780-1258-11eb-9dcf-624ac7e96b49.jpg)
+
+Median of Purchases made directly on stores by customers accepted the 6th campaign is bigger than Median of Purchases made directly on stores by customers didn't accept it.
+Standard deviation of Purchases made directly on stores by customers accepted the 6th campaign is similar of Standard deviation of Purchases made directly on stores by customers didn't accept it.
+Look at skewness. The histogram of Purchases made directly on stores by customers that accepted the 6th campaign has positive skew.
+There aren't any outliers when you look at boxplot of Purchases made directly on stores by customers.
+
+# Analysing the feature NumWebVisitsMonth
+The boxplot shows there are some outliers for the feature NumWebVisitsMonth
+
+![NumWebVisitsMonth_1](https://user-images.githubusercontent.com/52208793/96528371-f0204200-1258-11eb-94fe-29af9cf3b48b.jpg)
+![NumWebVisitsMonth_2](https://user-images.githubusercontent.com/52208793/96528475-3bd2eb80-1259-11eb-9e52-e3bbea87a54d.jpg)
+
+Applying interquartile range
+![NumWebVisitsMonth_3](https://user-images.githubusercontent.com/52208793/96528618-98360b00-1259-11eb-8973-39c8e8a9faf7.jpg)
+
+Median of Visits on Web Site last month by customers accepted the 6th campaign and Median of Visits on Web Site last month by customers didn't accept are the same.
+Standard deviation of Visits on Web Site last month by customers accepted the 6th campaign is bigger than Standard deviation of Purchases made directly on stores by customers didn't accept it.
+
 
