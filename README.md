@@ -117,4 +117,16 @@ Applying interquartile range
 ![MntSweetProducts_3](https://user-images.githubusercontent.com/52208793/96524707-6750d880-124f-11eb-8de4-8bf09020acde.jpg)
 ![MntSweetProducts_4](https://user-images.githubusercontent.com/52208793/96525685-04147580-1252-11eb-8c6f-efa142450b53.jpg)
 
+# Analysing the features MntGoldProds
+The boxplot shows there are some outliers for the feature MntGoldProds
+
+![MntGoldProducts_1](https://user-images.githubusercontent.com/52208793/96525877-7a18dc80-1252-11eb-8470-3185c92e6775.jpg)
+![MntGoldProducts_2](https://user-images.githubusercontent.com/52208793/96525986-c3692c00-1252-11eb-8db5-9b0b3bf6d273.jpg)
+
+Applying interquartile range
+![MntGoldProducts_3](https://user-images.githubusercontent.com/52208793/96526140-29ee4a00-1253-11eb-931b-014f09daf09e.jpg)
+![MntGoldProducts_4](https://user-images.githubusercontent.com/52208793/96526307-8fdad180-1253-11eb-8087-bba83af0123b.jpg)
+
+
+
 
