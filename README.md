@@ -278,3 +278,6 @@ It is very important to try another kind of classifier, so let's do it.
 Random Forest Classifier and XGBoost Classifier presented very similar accuracy but XGBoost Classifier presents a better
 performance than Random Forest Classifier
 Therefore I will choose XGBoost Classifier to do the new Campaign
+
+![the_office_3](https://user-images.githubusercontent.com/52208793/96536909-6fb70c80-126b-11eb-8a19-e67fb174828e.gif)
+
