@@ -127,6 +127,15 @@ Applying interquartile range
 ![MntGoldProducts_3](https://user-images.githubusercontent.com/52208793/96526140-29ee4a00-1253-11eb-931b-014f09daf09e.jpg)
 ![MntGoldProducts_4](https://user-images.githubusercontent.com/52208793/96526307-8fdad180-1253-11eb-8087-bba83af0123b.jpg)
 
+# Analysing the feature NumDealsPurchases
+The boxplot shows there are some outliers for the feature NumDealsPurchases
+
+![NumDealsPurchases_1](https://user-images.githubusercontent.com/52208793/96526491-17284500-1254-11eb-8276-3e361e283ef5.jpg)
+![NumDealsPurchases_2](https://user-images.githubusercontent.com/52208793/96526560-55bdff80-1254-11eb-8b88-69f487f29907.jpg)
+
+Applying interquartile range
+![NumDealsPurchases_3](https://user-images.githubusercontent.com/52208793/96526735-d0871a80-1254-11eb-9dfe-3da0403abf2d.jpg)
+![NumDealsPurchases_4](https://user-images.githubusercontent.com/52208793/96526876-2c51a380-1255-11eb-84cb-ae072a2e720b.jpg)
 
 
 
