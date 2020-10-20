@@ -137,5 +137,18 @@ Applying interquartile range
 ![NumDealsPurchases_3](https://user-images.githubusercontent.com/52208793/96526735-d0871a80-1254-11eb-9dfe-3da0403abf2d.jpg)
 ![NumDealsPurchases_4](https://user-images.githubusercontent.com/52208793/96526876-2c51a380-1255-11eb-84cb-ae072a2e720b.jpg)
 
+# Analysing the feature NumWebPurchases
+The boxplot shows there are some outliers for the feature NumDealsPurchases
+
+![NumWebPurchases_1](https://user-images.githubusercontent.com/52208793/96527029-85b9d280-1255-11eb-8a92-a93179708408.jpg)
+![NumWebPurchases_2](https://user-images.githubusercontent.com/52208793/96527123-c74a7d80-1255-11eb-8057-30d4be36437f.jpg)
+
+Applying interquartile range
+![NumWebPurchases_3](https://user-images.githubusercontent.com/52208793/96527342-3f18a800-1256-11eb-86a7-70b33823609e.jpg)
+![NumWebPurchases_4](https://user-images.githubusercontent.com/52208793/96527488-8ef76f00-1256-11eb-81f4-7ae7877f2f9c.jpg)
+
+
+
+
 
 
