@@ -176,6 +176,8 @@ The boxplot shows there are some outliers for the feature NumWebVisitsMonth
 
 Applying interquartile range
 ![NumWebVisitsMonth_3](https://user-images.githubusercontent.com/52208793/96528618-98360b00-1259-11eb-8973-39c8e8a9faf7.jpg)
+![NumWebVisitsMonth_4](https://user-images.githubusercontent.com/52208793/96528807-efd47680-1259-11eb-805d-c1d31953c5d5.jpg)
+
 
 Median of Visits on Web Site last month by customers accepted the 6th campaign and Median of Visits on Web Site last month by customers didn't accept are the same.
 Standard deviation of Visits on Web Site last month by customers accepted the 6th campaign is bigger than Standard deviation of Purchases made directly on stores by customers didn't accept it.
