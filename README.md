@@ -273,7 +273,11 @@ It is very important to try another kind of classifier, so let's do it.
 ![XGBoost_Classification_3](https://user-images.githubusercontent.com/52208793/96536258-071b6000-126a-11eb-82d4-e815b7985093.jpg)
 ![XGBoost_Classification_4](https://user-images.githubusercontent.com/52208793/96536327-2f0ac380-126a-11eb-8433-08126159c12b.jpg)
 
+# Conclusion
 
+Random Forest Classifier and XGBoost Classifier presented very similar accuracy but XGBoost Classifier presents a better
+performance than Random Forest Classifier
+Therefore I will choose XGBoost Classifier to do the new Campaign
 
 
 
