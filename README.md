@@ -182,11 +182,66 @@ Applying interquartile range
 Median of Visits on Web Site last month by customers accepted the 6th campaign and Median of Visits on Web Site last month by customers didn't accept are the same.
 Standard deviation of Visits on Web Site last month by customers accepted the 6th campaign is bigger than Standard deviation of Purchases made directly on stores by customers didn't accept it.
 
-# Analyzing Education and Marital_Status
+# Analyzing the features Education and Marital_Status
 
 ![education_and_marital_status_1](https://user-images.githubusercontent.com/52208793/96528961-52c60d80-125a-11eb-85d2-34f9a412c501.jpg)
 ![education_and_marital_status_2](https://user-images.githubusercontent.com/52208793/96529051-81dc7f00-125a-11eb-9911-7f80bb70ab0e.jpg)
 ![education_and_marital_status_3](https://user-images.githubusercontent.com/52208793/96529120-b2bcb400-125a-11eb-8ea0-91c65cecb8d8.jpg)
 ![education_and_marital_status_4](https://user-images.githubusercontent.com/52208793/96529184-e0096200-125a-11eb-839e-b3ec737cbd61.jpg)
 ![education_and_marital_status_5](https://user-images.githubusercontent.com/52208793/96529242-05966b80-125b-11eb-8c8f-e2ed474356b4.jpg)
+
+# Analyzing the feature Complain
+
+![Complain_1](https://user-images.githubusercontent.com/52208793/96529352-51e1ab80-125b-11eb-9f40-9c10836ef9c2.jpg)
+![Complain_2](https://user-images.githubusercontent.com/52208793/96529437-89505800-125b-11eb-8d09-9aae932d7818.jpg)
+
+# Analysing the features Kidhome and Teenhome
+
+![Kidhome_Teenhome_1](https://user-images.githubusercontent.com/52208793/96529560-e64c0e00-125b-11eb-8f63-13e93fbce635.jpg)
+![Kidhome_Teenhome_2](https://user-images.githubusercontent.com/52208793/96529657-28754f80-125c-11eb-959a-85fdd178ad63.jpg)
+
+# Transforming categorical features into dummy variable
+
+![Transform_1](https://user-images.githubusercontent.com/52208793/96529805-6d998180-125c-11eb-86a0-eb0f476c7623.jpg)
+![Transform_2](https://user-images.githubusercontent.com/52208793/96529894-a8031e80-125c-11eb-941a-50335cd74c8b.jpg)
+
+# Correlation Matrix
+
+![Correlation_Matrix_1](https://user-images.githubusercontent.com/52208793/96530102-19db6800-125d-11eb-908d-d1cce5c6171e.jpg)
+![Correlation_Matrix_2](https://user-images.githubusercontent.com/52208793/96530221-55763200-125d-11eb-876b-6fd04c69d010.jpg)
+
+# Pre-processing
+![Pre_Processing_1](https://user-images.githubusercontent.com/52208793/96530381-b69e0580-125d-11eb-8c50-9dcf211c7268.jpg)
+![Pre_Processing_2](https://user-images.githubusercontent.com/52208793/96530663-49d73b00-125e-11eb-84cc-2f7239dea835.jpg)
+![Pre_Processing_3](https://user-images.githubusercontent.com/52208793/96530799-902c9a00-125e-11eb-9ec7-c98dfbdb5122.jpg)
+![Pre_Processing_4](https://user-images.githubusercontent.com/52208793/96530931-e7cb0580-125e-11eb-978d-52caadcbbb07.jpg)
+![Pre_Processing_5](https://user-images.githubusercontent.com/52208793/96531048-252f9300-125f-11eb-88e8-93d6583227e4.jpg)
+![Pre_Processing_6](https://user-images.githubusercontent.com/52208793/96531134-4f815080-125f-11eb-9015-6f1c4706f59c.jpg)
+
+# Decision Tree Classifier
+![Decision_Tree_Classifier_1](https://user-images.githubusercontent.com/52208793/96531297-ae46ca00-125f-11eb-8c64-1845b39d7ab0.jpg)
+![Decision_Tree_Classifier_2](https://user-images.githubusercontent.com/52208793/96531625-77bd7f00-1260-11eb-9eb2-458192c9f1ea.jpg)
+![decision_tree](https://user-images.githubusercontent.com/52208793/96531518-34631080-1260-11eb-9e0e-51934de7ae0f.png)
+![Decision_Tree_Classifier_3](https://user-images.githubusercontent.com/52208793/96531842-e995c880-1260-11eb-9ef5-c41edf43546c.jpg)
+
+![Decision_Tree_Classifier_4](https://user-images.githubusercontent.com/52208793/96531967-42fdf780-1261-11eb-9d9e-344b4f7d48aa.jpg)
+![Decision_Tree_Classifier_5](https://user-images.githubusercontent.com/52208793/96532072-750f5980-1261-11eb-8a91-e7639f740664.jpg)
+![Decision_Tree_Classifier_6](https://user-images.githubusercontent.com/52208793/96532677-c66c1880-1262-11eb-913b-e782e6462a4a.jpg)
+![decision_tree_max_depth_6](https://user-images.githubusercontent.com/52208793/96532477-61b0be00-1262-11eb-86c7-60873fad6139.png)
+
+![Decision_Tree_Classifier_7](https://user-images.githubusercontent.com/52208793/96532937-485c4180-1263-11eb-834d-34522219d9cd.jpg)
+![decision_tree_max_depth_7](https://user-images.githubusercontent.com/52208793/96532480-62e1eb00-1262-11eb-9ccd-e64ab2acd0c9.png)
+![Decision_Tree_Classifier_8](https://user-images.githubusercontent.com/52208793/96533136-b56fd700-1263-11eb-8134-f11979b34495.jpg)
+![Decision_Tree_Classifier_9](https://user-images.githubusercontent.com/52208793/96533335-1b5c5e80-1264-11eb-82fb-099be1bbffcc.jpg)
+![decision_tree_max_depth_8](https://user-images.githubusercontent.com/52208793/96532486-64abae80-1262-11eb-9c7d-6d15e9ab2528.png)
+![Decision_Tree_Classifier_10](https://user-images.githubusercontent.com/52208793/96533436-58285580-1264-11eb-86ef-30bfb17c9027.jpg)
+
+![Decision_Tree_Classifier_11](https://user-images.githubusercontent.com/52208793/96533688-b2291b00-1264-11eb-8847-0465dbf7de7a.jpg)
+![decision_tree_max_depth_9](https://user-images.githubusercontent.com/52208793/96532462-59f11980-1262-11eb-8d41-606f5c8c9be3.png)
+
+
+
+
+
+
 
